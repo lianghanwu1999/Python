@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="book_tools" />
+          <option value="模块.导入模块同名工具.测试模块01" />
+          <option value="飞机大战.plane_main.plane_sprites" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
